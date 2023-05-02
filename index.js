@@ -13,8 +13,15 @@ app.get("/", (req, res) => {
     res.send(chefData);
 })
 
+// load chef Data 
+app.get("/chef/:id", (req, res) =>{
+    const id = req.params.id;
+    
+    const chef = chefData.filter(chef => chef.chefId == id);
+    res.send(chef);
+})
 // load recipe Data 
-app.get("/:id", (req, res) =>{
+app.get("/recipies/:id", (req, res) =>{
     const id = req.params.id;
     const filterRecipe = recipeData.filter(recipe => recipe.recipeId === +id);
     res.send(filterRecipe);
