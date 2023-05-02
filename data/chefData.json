@@ -1,0 +1,62 @@
+[
+    {
+        "chefId": 1,
+        "recipeId": 101,
+        "chefName": "John Doe",
+        "chefBio": "John Doe is a professional chef with over 10 years of experience in the culinary industry. He specializes in Italian cuisine and has a passion for creating unique and delicious dishes.",
+        "chefImage": "https://example.com/john_doe.jpg",
+        "yearOfExperience": 10,
+        "numberOfRecipes": 20,
+        "likes": 500
+    },
+    {
+        "chefId": 2,
+        "recipeId": 102,
+        "chefName": "Jane Smith",
+        "chefBio": "Jane Smith is a versatile chef who has worked in a variety of restaurants and kitchens. She is particularly skilled at creating fusion dishes that combine different culinary traditions.",
+        "chefImage": "https://example.com/jane_smith.jpg",
+        "yearOfExperience": 7,
+        "numberOfRecipes": 30,
+        "likes": 300
+    },
+    {
+        "chefId": 3,
+        "recipeId": 103,
+        "chefName": "Bob Johnson",
+        "chefBio": "Bob Johnson is a chef with a passion for comfort food. He enjoys creating classic dishes with a twist, and is known for his use of locally-sourced ingredients.",
+        "chefImage": "https://example.com/bob_johnson.jpg",
+        "yearOfExperience": 5,
+        "numberOfRecipes": 10,
+        "likes": 1000
+    },
+    {
+        "chefId": 4,
+        "recipeId": 104,
+        "chefName": "Sarah Lee",
+        "chefBio": "Sarah Lee is a pastry chef who specializes in creating beautiful and delicious desserts. She is particularly known for her use of seasonal ingredients and her attention to detail.",
+        "chefImage": "https://example.com/sarah_lee.jpg",
+        "yearOfExperience": 3,
+        "numberOfRecipes": 15,
+        "likes": 200
+    },
+    {
+        "chefId": 5,
+        "recipeId": 105,
+        "chefName": "Juan Perez",
+        "chefBio": "Juan Perez is a chef with a background in Latin American cuisine. He enjoys creating bold and flavorful dishes that showcase the rich culinary traditions of his home region.",
+        "chefImage": "https://example.com/juan_perez.jpg",
+        "yearOfExperience": 8,
+        "numberOfRecipes": 25,
+        "likes": 800
+    },
+    {
+        "chefId": 6,
+        "recipeId": 106,
+        "chefName": "Mia Johnson",
+        "chefBio": "Mia Johnson is a chef who loves to experiment with different flavors and textures. She is particularly interested in plant-based cuisine and enjoys creating dishes that are both healthy and delicious.",
+        "chefImage": "https://example.com/mia_johnson.jpg",
+        "yearOfExperience": 12,
+        "numberOfRecipes": 40,
+        "likes": 1200
+    }
+]
