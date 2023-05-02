@@ -2,7 +2,7 @@
     {
       "recipeName": "Spicy Grilled Shrimp",
       "recipeId": 101,
-      "recipeImg": "https://example.com/spicy_grilled_shrimp.jpg",
+      "recipeImg": "https://i.ibb.co/T8wJMzX/recipe2.jpg",
       "ingredients": [
         "1 pound large shrimp, peeled and deveined",
         "2 cloves garlic, minced",
@@ -15,7 +15,7 @@
     {
       "recipeName": "Roasted Chicken with Herbs",
       "recipeId": 102,
-      "recipeImg": "https://example.com/roasted_chicken.jpg",
+      "recipeImg": "https://i.ibb.co/Bqv4MtJ/recipe3.jpg",
       "ingredients": [
         "1 whole chicken, about 4 pounds",
         "2 tablespoons olive oil",
@@ -29,7 +29,7 @@
     {
       "recipeName": "Pesto Pasta with Sun-Dried Tomatoes",
       "recipeId": 103,
-      "recipeImg": "https://example.com/pesto_pasta.jpg",
+      "recipeImg": "https://i.ibb.co/55zYWb2/recipe4.jpg",
       "ingredients": [
         "1 pound pasta, such as fusilli or penne",
         "1/2 cup prepared basil pesto",
@@ -43,7 +43,117 @@
     {
       "recipeName": "Grilled Salmon with Lemon and Dill",
       "recipeId": 104,
-      "recipeImg": "https://example.com/grilled_salmon.jpg",
+      "recipeImg": "https://i.ibb.co/T8wJMzX/recipe2.jpg",
+      "ingredients": [
+        "4 salmon fillets, about 6 ounces each",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "2 tablespoons chopped fresh dill",
+        "1 lemon, sliced",
+        "Salt and pepper to taste"
+      ],
+      "methodOfCooking": "Preheat the grill to medium-high heat. In a small bowl, mix together the olive oil, garlic, and dill. Rub the mixture all over the salmon fillets and season with salt and pepper. Place the lemon slices on the grill and cook for 1-2 minutes per side, until charred. Remove the lemon slices from the grill and set aside. Grill the salmon fillets for 4-5 minutes per side, until cooked through. Serve immediately with the grilled lemon slices."
+    },
+    {
+      "recipeName": "Spicy Grilled Shrimp",
+      "recipeId": 105,
+      "recipeImg": "https://i.ibb.co/55zYWb2/recipe4.jpg",
+      "ingredients": [
+        "1 pound large shrimp, peeled and deveined",
+        "2 cloves garlic, minced",
+        "1/4 cup olive oil",
+        "1 tablespoon paprika",
+        "1 teaspoon cumin"
+      ],
+      "methodOfCooking": "Grill the shrimp on a preheated grill until cooked through, about 2-3 minutes per side. Serve immediately with a squeeze of lemon juice."
+    },
+    {
+      "recipeName": "Roasted Chicken with Herbs",
+      "recipeId": 106,
+      "recipeImg": "https://i.ibb.co/T8wJMzX/recipe2.jpg",
+      "ingredients": [
+        "1 whole chicken, about 4 pounds",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "2 teaspoons dried thyme",
+        "1 teaspoon dried rosemary",
+        "Salt and pepper to taste"
+      ],
+      "methodOfCooking": "Preheat the oven to 400°F. In a small bowl, mix together the olive oil, garlic, thyme, and rosemary. Rub the mixture all over the chicken and season with salt and pepper. Place the chicken in a roasting pan and bake for 1 hour, or until the internal temperature reaches 165°F. Let the chicken rest for 10 minutes before carving and serving."
+    },
+    {
+      "recipeName": "Pesto Pasta with Sun-Dried Tomatoes",
+      "recipeId": 101,
+      "recipeImg": "https://i.ibb.co/Bqv4MtJ/recipe3.jpg",
+      "ingredients": [
+        "1 pound pasta, such as fusilli or penne",
+        "1/2 cup prepared basil pesto",
+        "1/2 cup chopped sun-dried tomatoes",
+        "1/4 cup grated Parmesan cheese",
+        "1/4 cup pine nuts",
+        "Salt and pepper to taste"
+      ],
+      "methodOfCooking": "Cook the pasta according to the package instructions. Drain and set aside. In a large bowl, mix together the pesto, sun-dried tomatoes, Parmesan cheese, and pine nuts. Add the cooked pasta to the bowl and toss to coat. Season with salt and pepper to taste."
+    },
+    {
+      "recipeName": "Grilled Salmon with Lemon and Dill",
+      "recipeId": 102,
+      "recipeImg": "https://i.ibb.co/wQqVjKB/recipe6.jpg",
+      "ingredients": [
+        "4 salmon fillets, about 6 ounces each",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "2 tablespoons chopped fresh dill",
+        "1 lemon, sliced",
+        "Salt and pepper to taste"
+      ],
+      "methodOfCooking": "Preheat the grill to medium-high heat. In a small bowl, mix together the olive oil, garlic, and dill. Rub the mixture all over the salmon fillets and season with salt and pepper. Place the lemon slices on the grill and cook for 1-2 minutes per side, until charred. Remove the lemon slices from the grill and set aside. Grill the salmon fillets for 4-5 minutes per side, until cooked through. Serve immediately with the grilled lemon slices."
+    },
+    {
+      "recipeName": "Spicy Grilled Shrimp",
+      "recipeId": 103,
+      "recipeImg": "https://i.ibb.co/Bqv4MtJ/recipe3.jpg",
+      "ingredients": [
+        "1 pound large shrimp, peeled and deveined",
+        "2 cloves garlic, minced",
+        "1/4 cup olive oil",
+        "1 tablespoon paprika",
+        "1 teaspoon cumin"
+      ],
+      "methodOfCooking": "Grill the shrimp on a preheated grill until cooked through, about 2-3 minutes per side. Serve immediately with a squeeze of lemon juice."
+    },
+    {
+      "recipeName": "Roasted Chicken with Herbs",
+      "recipeId": 104,
+      "recipeImg": "https://i.ibb.co/bQQbpJF/recipe5.jpg",
+      "ingredients": [
+        "1 whole chicken, about 4 pounds",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "2 teaspoons dried thyme",
+        "1 teaspoon dried rosemary",
+        "Salt and pepper to taste"
+      ],
+      "methodOfCooking": "Preheat the oven to 400°F. In a small bowl, mix together the olive oil, garlic, thyme, and rosemary. Rub the mixture all over the chicken and season with salt and pepper. Place the chicken in a roasting pan and bake for 1 hour, or until the internal temperature reaches 165°F. Let the chicken rest for 10 minutes before carving and serving."
+    },
+    {
+      "recipeName": "Pesto Pasta with Sun-Dried Tomatoes",
+      "recipeId": 105,
+      "recipeImg": "https://i.ibb.co/bQQbpJF/recipe5.jpg",
+      "ingredients": [
+        "1 pound pasta, such as fusilli or penne",
+        "1/2 cup prepared basil pesto",
+        "1/2 cup chopped sun-dried tomatoes",
+        "1/4 cup grated Parmesan cheese",
+        "1/4 cup pine nuts",
+        "Salt and pepper to taste"
+      ],
+      "methodOfCooking": "Cook the pasta according to the package instructions. Drain and set aside. In a large bowl, mix together the pesto, sun-dried tomatoes, Parmesan cheese, and pine nuts. Add the cooked pasta to the bowl and toss to coat. Season with salt and pepper to taste."
+    },
+    {
+      "recipeName": "Grilled Salmon with Lemon and Dill",
+      "recipeId": 106,
+      "recipeImg": "https://i.ibb.co/55zYWb2/recipe4.jpg",
       "ingredients": [
         "4 salmon fillets, about 6 ounces each",
         "2 tablespoons olive oil",
@@ -57,7 +167,7 @@
     {
       "recipeName": "Spicy Grilled Shrimp",
       "recipeId": 101,
-      "recipeImg": "https://example.com/spicy_grilled_shrimp.jpg",
+      "recipeImg": "https://i.ibb.co/55zYWb2/recipe4.jpg",
       "ingredients": [
         "1 pound large shrimp, peeled and deveined",
         "2 cloves garlic, minced",
@@ -70,7 +180,7 @@
     {
       "recipeName": "Roasted Chicken with Herbs",
       "recipeId": 102,
-      "recipeImg": "https://example.com/roasted_chicken.jpg",
+      "recipeImg": "https://i.ibb.co/55zYWb2/recipe4.jpg",
       "ingredients": [
         "1 whole chicken, about 4 pounds",
         "2 tablespoons olive oil",
@@ -84,7 +194,7 @@
     {
       "recipeName": "Pesto Pasta with Sun-Dried Tomatoes",
       "recipeId": 103,
-      "recipeImg": "https://example.com/pesto_pasta.jpg",
+      "recipeImg": "https://i.ibb.co/SPLynNk/recipe1.jpg",
       "ingredients": [
         "1 pound pasta, such as fusilli or penne",
         "1/2 cup prepared basil pesto",
@@ -98,117 +208,7 @@
     {
       "recipeName": "Grilled Salmon with Lemon and Dill",
       "recipeId": 104,
-      "recipeImg": "https://example.com/grilled_salmon.jpg",
-      "ingredients": [
-        "4 salmon fillets, about 6 ounces each",
-        "2 tablespoons olive oil",
-        "2 cloves garlic, minced",
-        "2 tablespoons chopped fresh dill",
-        "1 lemon, sliced",
-        "Salt and pepper to taste"
-      ],
-      "methodOfCooking": "Preheat the grill to medium-high heat. In a small bowl, mix together the olive oil, garlic, and dill. Rub the mixture all over the salmon fillets and season with salt and pepper. Place the lemon slices on the grill and cook for 1-2 minutes per side, until charred. Remove the lemon slices from the grill and set aside. Grill the salmon fillets for 4-5 minutes per side, until cooked through. Serve immediately with the grilled lemon slices."
-    },
-    {
-      "recipeName": "Spicy Grilled Shrimp",
-      "recipeId": 101,
-      "recipeImg": "https://example.com/spicy_grilled_shrimp.jpg",
-      "ingredients": [
-        "1 pound large shrimp, peeled and deveined",
-        "2 cloves garlic, minced",
-        "1/4 cup olive oil",
-        "1 tablespoon paprika",
-        "1 teaspoon cumin"
-      ],
-      "methodOfCooking": "Grill the shrimp on a preheated grill until cooked through, about 2-3 minutes per side. Serve immediately with a squeeze of lemon juice."
-    },
-    {
-      "recipeName": "Roasted Chicken with Herbs",
-      "recipeId": 102,
-      "recipeImg": "https://example.com/roasted_chicken.jpg",
-      "ingredients": [
-        "1 whole chicken, about 4 pounds",
-        "2 tablespoons olive oil",
-        "2 cloves garlic, minced",
-        "2 teaspoons dried thyme",
-        "1 teaspoon dried rosemary",
-        "Salt and pepper to taste"
-      ],
-      "methodOfCooking": "Preheat the oven to 400°F. In a small bowl, mix together the olive oil, garlic, thyme, and rosemary. Rub the mixture all over the chicken and season with salt and pepper. Place the chicken in a roasting pan and bake for 1 hour, or until the internal temperature reaches 165°F. Let the chicken rest for 10 minutes before carving and serving."
-    },
-    {
-      "recipeName": "Pesto Pasta with Sun-Dried Tomatoes",
-      "recipeId": 103,
-      "recipeImg": "https://example.com/pesto_pasta.jpg",
-      "ingredients": [
-        "1 pound pasta, such as fusilli or penne",
-        "1/2 cup prepared basil pesto",
-        "1/2 cup chopped sun-dried tomatoes",
-        "1/4 cup grated Parmesan cheese",
-        "1/4 cup pine nuts",
-        "Salt and pepper to taste"
-      ],
-      "methodOfCooking": "Cook the pasta according to the package instructions. Drain and set aside. In a large bowl, mix together the pesto, sun-dried tomatoes, Parmesan cheese, and pine nuts. Add the cooked pasta to the bowl and toss to coat. Season with salt and pepper to taste."
-    },
-    {
-      "recipeName": "Grilled Salmon with Lemon and Dill",
-      "recipeId": 104,
-      "recipeImg": "https://example.com/grilled_salmon.jpg",
-      "ingredients": [
-        "4 salmon fillets, about 6 ounces each",
-        "2 tablespoons olive oil",
-        "2 cloves garlic, minced",
-        "2 tablespoons chopped fresh dill",
-        "1 lemon, sliced",
-        "Salt and pepper to taste"
-      ],
-      "methodOfCooking": "Preheat the grill to medium-high heat. In a small bowl, mix together the olive oil, garlic, and dill. Rub the mixture all over the salmon fillets and season with salt and pepper. Place the lemon slices on the grill and cook for 1-2 minutes per side, until charred. Remove the lemon slices from the grill and set aside. Grill the salmon fillets for 4-5 minutes per side, until cooked through. Serve immediately with the grilled lemon slices."
-    },
-    {
-      "recipeName": "Spicy Grilled Shrimp",
-      "recipeId": 101,
-      "recipeImg": "https://example.com/spicy_grilled_shrimp.jpg",
-      "ingredients": [
-        "1 pound large shrimp, peeled and deveined",
-        "2 cloves garlic, minced",
-        "1/4 cup olive oil",
-        "1 tablespoon paprika",
-        "1 teaspoon cumin"
-      ],
-      "methodOfCooking": "Grill the shrimp on a preheated grill until cooked through, about 2-3 minutes per side. Serve immediately with a squeeze of lemon juice."
-    },
-    {
-      "recipeName": "Roasted Chicken with Herbs",
-      "recipeId": 102,
-      "recipeImg": "https://example.com/roasted_chicken.jpg",
-      "ingredients": [
-        "1 whole chicken, about 4 pounds",
-        "2 tablespoons olive oil",
-        "2 cloves garlic, minced",
-        "2 teaspoons dried thyme",
-        "1 teaspoon dried rosemary",
-        "Salt and pepper to taste"
-      ],
-      "methodOfCooking": "Preheat the oven to 400°F. In a small bowl, mix together the olive oil, garlic, thyme, and rosemary. Rub the mixture all over the chicken and season with salt and pepper. Place the chicken in a roasting pan and bake for 1 hour, or until the internal temperature reaches 165°F. Let the chicken rest for 10 minutes before carving and serving."
-    },
-    {
-      "recipeName": "Pesto Pasta with Sun-Dried Tomatoes",
-      "recipeId": 103,
-      "recipeImg": "https://example.com/pesto_pasta.jpg",
-      "ingredients": [
-        "1 pound pasta, such as fusilli or penne",
-        "1/2 cup prepared basil pesto",
-        "1/2 cup chopped sun-dried tomatoes",
-        "1/4 cup grated Parmesan cheese",
-        "1/4 cup pine nuts",
-        "Salt and pepper to taste"
-      ],
-      "methodOfCooking": "Cook the pasta according to the package instructions. Drain and set aside. In a large bowl, mix together the pesto, sun-dried tomatoes, Parmesan cheese, and pine nuts. Add the cooked pasta to the bowl and toss to coat. Season with salt and pepper to taste."
-    },
-    {
-      "recipeName": "Grilled Salmon with Lemon and Dill",
-      "recipeId": 104,
-      "recipeImg": "https://example.com/grilled_salmon.jpg",
+      "recipeImg": "https://i.ibb.co/nBXXVYm/recipe7.jpg",
       "ingredients": [
         "4 salmon fillets, about 6 ounces each",
         "2 tablespoons olive oil",
@@ -221,8 +221,8 @@
     },
     {
       "recipeName": "Pesto Pasta with Sun-Dried Tomatoes",
-      "recipeId": 103,
-      "recipeImg": "https://example.com/pesto_pasta.jpg",
+      "recipeId": 105,
+      "recipeImg": "https://i.ibb.co/nBXXVYm/recipe7.jpg",
       "ingredients": [
         "1 pound pasta, such as fusilli or penne",
         "1/2 cup prepared basil pesto",
@@ -235,8 +235,8 @@
     },
     {
       "recipeName": "Grilled Salmon with Lemon and Dill",
-      "recipeId": 104,
-      "recipeImg": "https://example.com/grilled_salmon.jpg",
+      "recipeId": 106,
+      "recipeImg": "https://i.ibb.co/SPLynNk/recipe1.jpg",
       "ingredients": [
         "4 salmon fillets, about 6 ounces each",
         "2 tablespoons olive oil",
@@ -248,3 +248,4 @@
       "methodOfCooking": "Preheat the grill to medium-high heat. In a small bowl, mix together the olive oil, garlic, and dill. Rub the mixture all over the salmon fillets and season with salt and pepper. Place the lemon slices on the grill and cook for 1-2 minutes per side, until charred. Remove the lemon slices from the grill and set aside. Grill the salmon fillets for 4-5 minutes per side, until cooked through. Serve immediately with the grilled lemon slices."
     }
 ]  
+
